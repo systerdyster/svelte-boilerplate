@@ -1,6 +1,4 @@
-<script>
-    const nname = 'world!!';
-</script>
+<h1>Hello {nname}</h1>
 
 <style>
     h1 {
@@ -10,4 +8,6 @@
     }
 </style>
 
-<h1>Hello {nname}</h1>
+<script lang="ts">
+    const nname = 'world!!';
+</script>
