@@ -1,2 +1,2 @@
-# webpack-starter-template
+# svelte-boilerplate
 fresh new template. yisssss...

@@ -1,5 +1,6 @@
 {
-    "name": "@systerdyster/webpack-start-template-svelte",
+    "name": "@systerdyster/svelte-boilerplate",
+    "description": "Basic setup of Webpack with dev/prod builds, using svelte",
     "version": "1.0.0",
     "scripts": {
         "clean": "rimraf www/*",
@@ -8,6 +9,7 @@
         "version": "npm-check --update"
     },
     "author": "Fredrik Gärdin",
+    "repository": { "url": "https://github.com/systerdyster/svelte-boilerplate.git"},
     "license": "MIT",
     "devDependencies": {
         "css-loader": "^3.4.2",
